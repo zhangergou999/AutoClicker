@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">文字自动点击</string>
+    <string name="service_desc">读取屏幕上的文字，并按设定规则自动点击。</string>
+</resources>
